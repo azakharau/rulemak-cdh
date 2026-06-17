@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.custom.keyboardlayout.rulemak-cdh</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Rulemak-CDH</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.6</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1.0.6</string>
+	<key>KLInfo_Rulemak-CDH</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconFile</key>
+		<string>Rulemak-CDH.icns</string>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.custom.keyboardlayout.rulemak-cdh.rulemak-cdh</string>
+		<key>TISIntendedLanguage</key>
+		<string>ru</string>
+		<key>TISPropertyInputSourceIconLabels</key>
+		<dict>
+			<key>Primary</key>
+			<string>RU</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
